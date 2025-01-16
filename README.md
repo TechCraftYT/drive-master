@@ -14,3 +14,6 @@ their sizes, remaining size, and the names of said drive
 
 
 **4. Then press enter if you have more than one drive to view**
+
+
+![](https://github.com/TechCraftYT/drive-master/blob/main/Video.gif)
