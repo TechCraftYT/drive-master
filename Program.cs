@@ -20,8 +20,10 @@ class Program
                 Console.WriteLine("Made by x2Beef Coding Productions");
                 Thread.Sleep(4000);
                 Console.WriteLine("Introducing Drive-Master 1.0.1");
+                Thread.Sleep(2000);
 
                 // Uses WriteLine to display drive info
+                Console.Clear();
                 Console.WriteLine($"Drive {drive.Name}");
                 Console.WriteLine($"Drive Letter: {drive.Name[0]}:");
                 Console.WriteLine($"Total Space: {drive.TotalSize / (1024 * 1024 * 1024)} GB");
